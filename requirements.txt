@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo 
+python-dotenv 
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib 
+slack_sdk 
+email-validator
+mcp
